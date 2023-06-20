@@ -1,0 +1,8 @@
+.search{
+    column-rule-color: aqua;
+    padding: 13px;
+    margin: 15px;
+    border-color:aqua;
+    border-radius: 30px;
+    border-width: 5px;
+}
